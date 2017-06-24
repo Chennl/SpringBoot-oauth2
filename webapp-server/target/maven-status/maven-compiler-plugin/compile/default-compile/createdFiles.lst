@@ -1,0 +1,3 @@
+com\exteso\blog\oauth2\stepbystep\App.class
+com\exteso\blog\oauth2\stepbystep\App$OauthClientConfiguration.class
+com\exteso\blog\oauth2\stepbystep\configuration\WebSecurityConfig.class
